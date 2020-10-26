@@ -1,0 +1,48 @@
+.salam{
+ width: 100%;
+ height: 100%;
+ background-color: #d9e4dd;
+ color: #555555;
+ text-align: center;
+        font-size: 35pt;
+
+ text-shadow: 3px 3px #fbf7f0;
+}
+
+.name{
+	width: 100%;
+	height: 100%;
+	background-color: #cdc9c3;
+	text-align: left;
+		font-size: 20pt;
+	
+}
+
+body{
+	background-color: #555555;
+	margin: 0px;
+	padding: 0px;
+}
+.atas{
+	margin: 0px;
+	width: 100%;
+ 	height: 50px;
+ 	background-color: #d9e4dd;
+ 	color: #555555;
+ 	text-align: left;
+		font-size: 25pt;
+		font-style: bold;
+
+}
+h1{
+	margin: 0px;
+}
+nav{
+	background-color:#fbf7f0;
+	overflow: auto;
+	color: #000000;
+
+}	
+a:link {
+	margin: 30px;
+}
